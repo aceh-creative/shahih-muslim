@@ -11,10 +11,10 @@ Bab: Wajibnya meriwayatkan dari tsiqat
 
 وَهُوَ الْأَثَرُ الْمَشْهُورُ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ حَدَّثَ عَنِّي بِحَدِيثٍ يُرَى أَنَّهُ كَذِبٌ فَهُوَ أَحَدُ الْكَاذِبِينَ حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا وَكِيعٌ عَنْ شُعْبَةَ عَنْ الْحَكَمِ عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى عَنْ سَمُرَةَ بْنِ جُنْدَبٍ ح و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ أَيْضًا حَدَّثَنَا وَكِيعٌ عَنْ شُعْبَةَ وَسُفْيَانَ عَنْ حَبِيبٍ عَنْ مَيْمُونِ بْنِ أَبِي شَبِيبٍ عَنْ الْمُغِيرَةِ بْنِ شُعْبَةَ قَالَا قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ذَلِكَ
 
-Dan ia merupakan atsar yang masyhur dari Rasulullah shallallahu 'alaihi wasallam |saw16|,
+Dan ia merupakan atsar yang masyhur dari Rasulullah |saw16|,
 "Barangsiapa menceritakan hadits dariku, yang mana riwayat itu diduga adalah kebohongan,
 maka dia (perawi) adalah salah satu dari para pembohong tersebut.
-" Telah menceritakan kepada kami Abu Bakar bin Abu Syaibah telah menceritakan kepada kami
+"Telah menceritakan kepada kami Abu Bakar bin Abu Syaibah telah menceritakan kepada kami
 Waki' dari Syu'bah dari al Hakam dari Abdurrahman bin Abu Laila dari Samurah bin Jundab.
 (dalam riwayat lain disebutkan) dan juga telah menceritakan kepada kami Abu Bakar bin Abu Syaibah
 telah menceritakan kepada kami Waki' dari Syu'bah dan Sufyan dari Habib dari
