@@ -1,6 +1,6 @@
 .. global
 
-.. |biohazard| image:: images/biohazard.png
+.. |biohazard| image:: doc/images/biohazard.png
 .. |doctest| replace:: :mod:`doctest`
-.. |saw16| image:: ../images/saw.png
+.. |saw16| image:: doc/images/saw.png
 	:height: 16px

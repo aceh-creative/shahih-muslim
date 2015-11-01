@@ -1,4 +1,4 @@
-.. include:: ../global.rst
+.. include:: ../../global.rst
 .. 01. Kitab Mukadimah
 
 KITAB: MUKADIMAH
