@@ -1,4 +1,0 @@
-.. pengantar penerbit
-
-Pengantar Penerbit
-==================

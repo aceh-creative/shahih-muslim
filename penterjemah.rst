@@ -1,4 +1,0 @@
-.. pengantar penterjemah
-
-Pengantar Penterjemah
-=====================
